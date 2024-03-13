@@ -20,9 +20,8 @@ Cero (0): "El número x es el neutro para la suma"
 [![Whats-App-Image-2024-03-12-at-6-48-09-PM.jpg](https://i.postimg.cc/MTn2tW60/Whats-App-Image-2024-03-12-at-6-48-09-PM.jpg)](https://postimg.cc/XG6zY6yX)
 
 
-```pyhton(import math
-radio = float(input("ponga un radio"))
-area = math.pi * radio**2
-perimetro = 2*math.pi * radio
-print(f"el areas es:{area: .2f}")
-print(f"el perimetro es:{perimetro} ")´´´
+```pyhton(a = int(input("Digite un numero entero"))
+if a > 97 and a < 122:
+    print("El numero entero corresponde a una vocal minuscula en el codigo ASCII, es:"+(chr(a)))
+else:
+    print("No corresponde a una vocal minuscula en el codigo ASCII")´´´
