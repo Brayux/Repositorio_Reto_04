@@ -6,8 +6,7 @@ Adjunto las imágenes del reto N4
 if a > 97 and a < 122:
     print("El numero entero corresponde a una vocal minuscula en el codigo ASCII, es:"+(chr(a)))
 else:
-    print("No corresponde a una vocal minuscula en el codigo ASCII")
-´´´
+    print("No corresponde a una vocal minuscula en el codigo ASCII"))´´´
 
 2.Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.
 ```python(s = str(input("Cadena de longitud 1 ASCII"))
